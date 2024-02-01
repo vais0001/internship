@@ -1,0 +1,32 @@
+[
+    {
+        "email": "test@test.nl",
+        "likes": 7,
+        "reposts": 8,
+        "views": 11
+    },
+    {
+        "email": "invalid-email",
+        "likes": 7,
+        "reposts": 8,
+        "views": 11
+    },
+    {
+        "email": "invalid-email",
+        "likes": 5,
+        "reposts": 6,
+        "views": 4
+    },
+    {
+        "email": "valid@example.com",
+        "likes": 10,
+        "reposts": 10,
+        "views": 10
+    },
+    {
+        "email": "test@domain.com",
+        "likes": 1,
+        "reposts": 5,
+        "views": 3
+    }
+]
