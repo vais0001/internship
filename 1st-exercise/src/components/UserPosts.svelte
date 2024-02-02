@@ -9,7 +9,7 @@
 </script>
 
 <div class="min-h-screen bg-gray-100 py-10">
-    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="max-w-4xl mx-auto px-4">
         {#each posts as post}
             {#if post.userId == 8} <!--Show only the posts from user 8-->
                 <div class="bg-white shadow-md rounded-lg overflow-hidden my-4">
